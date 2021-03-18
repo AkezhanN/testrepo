@@ -1,0 +1,2 @@
+#comment
+print('Some text')
